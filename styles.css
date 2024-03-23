@@ -71,3 +71,11 @@ span{
     font-size: 100px;
     color: #fff;
 }
+
+@media (min-width: 500px) {
+    .final-sms h2{
+        text-align: center;
+        font-size: 30px;
+    }
+
+}
